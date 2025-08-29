@@ -29,8 +29,7 @@ It is built using **HTML, CSS, and JavaScript**, with a clean responsive design.
 ---
 
 ## 🔗 Live Demo
-👉 [Click here to view the Portfolio Website](https://username.github.io/portfolio-website/)
----
+👉 [Click here to view the Portfolio Website](https://github.com/nmanasa30/Myportfolio)
 
 ## 📬 Contact
 - **Email:** manasayadavn@gmail.com  

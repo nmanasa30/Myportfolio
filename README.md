@@ -39,5 +39,4 @@ It is built using **HTML, CSS, and JavaScript**, with a clean responsive design.
 
 ---
 
-## 📌 Note
-This project is part of my **internship submission** for *Vexocore IT Services Pvt. Ltd.* under the **WordPress Development Internship** role.
+

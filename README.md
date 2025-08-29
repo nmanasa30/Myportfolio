@@ -29,15 +29,14 @@ It is built using **HTML, CSS, and JavaScript**, with a clean responsive design.
 ---
 
 ## 🔗 Live Demo
-👉 [Click here to view the Portfolio Website](https://manasan30.github.io/portfolio/)  
-
+👉 [Click here to view the Portfolio Website](https://username.github.io/portfolio-website/)
 ---
 
 ## 📬 Contact
 - **Email:** manasayadavn@gmail.com  
 - **Phone:** +91 9032613079  
 - **GitHub:** [@manasan30](https://github.com/manasan30)  
-- **LinkedIn:** [@manasan30](https://linkedin.com/in/manasan30)  
+- **LinkedIn:** [@nmanasa30](https://linkedin.com/in/nmanasa30)  
 
 ---
 
